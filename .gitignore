@@ -1,0 +1,2 @@
+# hide all env secret files
+.env*
